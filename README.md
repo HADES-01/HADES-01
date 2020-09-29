@@ -1,5 +1,5 @@
 ![Banner](assets/banner.png)
-<hr>
+===
 ### Full-Stack Developer, DSA Expert, FOSS Enthusiast
 
 ### Languages
