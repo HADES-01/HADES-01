@@ -1,4 +1,3 @@
-# Aditya Vats 
 ### Full-Stack Developer, DSA Expert, FOSS Enthusiast
 
 ### Languages
