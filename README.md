@@ -1,4 +1,4 @@
-![Banner](assets/banner.png)
+![Banner](download.png)
 ===
 ### Full-Stack Developer, DSA Expert, FOSS Enthusiast
 
